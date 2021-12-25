@@ -1,4 +1,4 @@
 # Deep Learning Algorithms From Scratch
 
 
-### <br>View respective folder for explanation.
+### <br>View folder for notebook & explanation.
