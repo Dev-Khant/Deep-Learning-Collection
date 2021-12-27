@@ -13,7 +13,7 @@ Here DCGAN is implemented using **Tensorflow.**<br>
 &nbsp; &nbsp; &nbsp; &nbsp; ![generated_image_7](https://user-images.githubusercontent.com/57898986/147438814-bb30b816-7d42-45ed-9f86-9340c8c321e7.png)
 &nbsp; &nbsp; &nbsp; &nbsp; ![generated_image_8](https://user-images.githubusercontent.com/57898986/147438844-a1f78e9b-9f61-4efd-8288-13b195376b35.png)
 
-<br><br>Now let's understand **GAN and DCGAN**.
+<br><br>Now let's understand **GAN** and **DCGAN**.
 
 ### Generatice Adversarial Network(GAN)
 
