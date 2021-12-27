@@ -2,7 +2,7 @@
 
 Here DCGAN is implemented using **Tensorflow.**<br>
 - Dataset used here is [Celeb Dataset](https://www.kaggle.com/jessicali9530/celeba-dataset) consisting of around 200k images of celebrities.<br>
-- The model was trained for 50 epochs with batch size of 128 and image size of 64x64.<br>
+- The model was trained for **50 epochs** with **batch size of 128** and **image size of 64x64**.<br>
 - Here are the images after training the model.<br>
 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![gif_2](https://user-images.githubusercontent.com/57898986/147438467-274e6a31-e31e-4f82-943d-d48ec4afb846.gif)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![gif_1](https://user-images.githubusercontent.com/57898986/147438514-c5d1c3fe-4289-4578-b295-ca72504e476f.gif)
@@ -18,5 +18,5 @@ Here DCGAN is implemented using **Tensorflow.**<br>
 ### Generatice Adversarial Network(GAN)
 
 - GAN is a combination of two neural networks named **Generator** and **Discriminator**. It is used to create images, music from random noise.<br>
-- **Generator** is used to create images from random noise while **Discriminator** is used to classify a given image as **real or fake**.<br>
+- Generator is used to **create images** from random noise while Discriminator is used to classify a given image as **real or fake**.<br>
 
