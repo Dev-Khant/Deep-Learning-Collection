@@ -15,8 +15,16 @@ Here DCGAN is implemented using **Tensorflow.**<br>
 
 <br><br>Now let's understand **GAN** and **DCGAN**.
 
-### Generative Adversarial Network(GAN)
+## Generative Adversarial Network(GAN)
 
 - GAN is a combination of two neural networks named **Generator** and **Discriminator**. It is used to create images, music from random noise.<br>
 - Generator is used to **create images** from random noise while Discriminator is used to classify a given image as **real or fake**.<br>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![gan](https://user-images.githubusercontent.com/57898986/147563112-2113fb5b-2d9a-44bb-af01-966170dad15b.png)
+
+
+### Discriminator
+
+- Discriminator is a neural which is used for classification of images. Here the labels for **real images** are **1** & for **fake images** its **0**.<br>
+- The real images comes from the training dataset. The generated images are output by the generator model.<br>
+- After the training process, the discriminator model is discarded as we are interested in the generator.
